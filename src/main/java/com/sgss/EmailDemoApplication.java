@@ -20,7 +20,7 @@ import com.microsoft.graph.requests.GraphServiceClient;
 import com.microsoft.graph.requests.MessageCollectionPage;
 import com.sgss.model.Folder;
 import com.sgss.service.EmailRequest;
-import com.sgss.service.EmailService2;
+import com.sgss.service.EmailService;
 import com.sgss.service.FolderRequest;
 import com.sgss.service.FolderService;
 

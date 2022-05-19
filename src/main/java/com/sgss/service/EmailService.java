@@ -27,7 +27,7 @@ import com.sgss.model.Email;
 
 import okhttp3.Request;
 
-public class EmailService2 {
+public class EmailService {
 	
 	private final static String CLIENT_ID = "47300f86-73c6-4b95-a81e-b4c15fedc831";
     private final static String TENANT_ID = "b5c66e55-d7b0-405d-b4f8-9a6e27f8d531";

@@ -67,7 +67,7 @@ public class EmailRequest {
 		return this;
 	}
 	public List<Email> get() {
-		EmailService2 emailService =new EmailService2();
+		EmailService emailService =new EmailService();
 		return emailService.processMailbox(this);
 		 
 	}
